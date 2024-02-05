@@ -4,6 +4,11 @@ problem of keeping records and tracking borrowers details from other groups.
 Developer Name: Okello Emmanuel (Both front end and back-end)
 the project is a multi-group management system i.e many groups can be registered by the system admin of this system.
 
+Begin by downloading the achieve file or clone this repository to access the system.
+Import the database found in folder (Database_file)
+Database Name is info_system
+
+
 Data flow:
 Below is how data will be flowig in this system:-
    -The system admin registers a group.
